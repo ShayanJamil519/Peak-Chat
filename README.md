@@ -15,5 +15,5 @@
 
 # Peak-Chat Demo
 Link: https://www.youtube.com/watch?v=wLoS5ecSpD8&list=PL5Go0JjUFzWgE7xLL63R2TyPJPfpBZYuX&index=4
-https://user-images.githubusercontent.com/76084810/219290939-425762af-8c7b-4928-9600-b74eedb84574.mp4
+
 
