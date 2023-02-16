@@ -1,0 +1,17 @@
+.whole {
+    background: #0b5e5e;
+}
+
+@media (max-width:400px) {
+    .resp1 {
+        font-size: 6vmin !important;
+    }
+    .resp2 {
+        padding: 2rem 0 !important;
+        font-size: 1.5rem !important;
+    }
+    .resp3 {
+        width: 2rem !important;
+        height: 2rem !important;
+    }
+}
